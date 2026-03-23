@@ -47,7 +47,7 @@ It is designed to run in a local or controlled environment, ensuring data privac
 ## Architecture
 
 text
-PDF Documents
+PDF Documents\n
    ↓
 Text Extraction
    ↓
