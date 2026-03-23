@@ -67,12 +67,14 @@ Answer Generation
 
 ## Use Cases
 
+
 Internal document search systems
 Legal and policy document analysis
 Knowledge base assistants
 Multilingual document understanding
 Private/offline document systems
 
+---
 Tech Stack
 Python
 Retrieval-Augmented Generation (RAG) pipeline
