@@ -42,27 +42,6 @@ It is designed to run in a local or controlled environment, ensuring data privac
 - Scalable architecture for multilingual support  
 - Local deployment capability  
 
----
-
-## Architecture
-
-text
-PDF Documents/n
-   ↓
-Text Extraction
-   ↓
-Chunking
-   ↓
-Embedding
-   ↓
-Vector Database
-   ↓
-Retrieval
-   ↓
-Sozly LLM
-   ↓
-Answer Generation
----
 
 ## Use Cases
 
@@ -102,3 +81,26 @@ Available for collaboration and freelance opportunities.
 ## Team
 
 A team of engineers building document understanding and automation systems.
+
+---
+
+## Architecture
+
+```text
+PDF Documents/n
+   ↓
+Text Extraction
+   ↓
+Chunking
+   ↓
+Embedding
+   ↓
+Vector Database
+   ↓
+Retrieval
+   ↓
+Sozly LLM
+   ↓
+Answer Generation
+
+
