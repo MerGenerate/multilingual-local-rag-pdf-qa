@@ -65,7 +65,7 @@ Answer Generation
 
 ---
 
-**Use Cases:**
+## Use Cases
 
 Internal document search systems
 Legal and policy document analysis
