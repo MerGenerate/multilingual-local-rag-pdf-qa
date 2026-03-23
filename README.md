@@ -46,7 +46,7 @@ It is designed to run in a local or controlled environment, ensuring data privac
 
 ## Architecture
 
-```text
+text
 PDF Documents
    ↓
 Text Extraction
@@ -61,7 +61,7 @@ Retrieval
    ↓
 Sozly LLM
    ↓
-Answer Generation```
+Answer Generation
 ---
 
 ## Use Cases
@@ -74,7 +74,7 @@ Multilingual document understanding
 Private/offline document systems
 
 ---
-Tech Stack
+## Tech Stack
 Python
 Retrieval-Augmented Generation (RAG) pipeline
 Vector database
@@ -82,12 +82,15 @@ PDF parsing and text processing
 Custom fine-tuned language model (Sozly LLM)
 Local deployment environment
 
-Demo
+---
+## Test the Product
 
 Access the system here:
 https://sozly2.birainydemo.com/rag
 
-Future Improvements
+---
+
+## Future Improvements
 
 Expansion to additional languages
 Improved retrieval accuracy
@@ -95,6 +98,7 @@ Enhanced user interface
 Further model optimization
 Available for collaboration and freelance opportunities.
 
-Team
+---
+## Team
 
 A team of engineers building document understanding and automation systems.
