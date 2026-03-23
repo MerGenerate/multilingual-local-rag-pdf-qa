@@ -61,8 +61,7 @@ Retrieval
    ↓
 Sozly LLM
    ↓
-Answer Generation
-
+Answer Generation```
 ---
 
 ## Use Cases
